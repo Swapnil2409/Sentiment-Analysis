@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets
+*.csv
+*.hdf5
+*.parquet
+
+# Ignore logs and temporary files
+*.log
+*.tmp
